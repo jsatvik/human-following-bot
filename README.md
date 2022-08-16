@@ -27,8 +27,11 @@ A simple bot which utilises IR and Ultrasonic sensors.
  I used Arduino IDE, an almost C++ copy that makes it easy to connect the arduino board with our laptops to communicate with them.
   
   Side note:
+  
   1.All of these components can be found in a baisc arduino kit online.
+  
   2.The sensitivity of the sensors were fun to calibrate to get the best outcome.
+  
   3.Its still a basic bot which has just touched the realm of being autonomous,hoping to work on a similar project later.
 
 Cheers!!!
